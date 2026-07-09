@@ -1,6 +1,7 @@
 {
 	"name": "NYC_Taxi",
 	"properties": {
+		"description": "Project",
 		"activities": [
 			{
 				"name": "ForEach1",
