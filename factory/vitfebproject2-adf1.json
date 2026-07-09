@@ -1,0 +1,15 @@
+{
+	"name": "vitfebproject2-adf1",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ddc3b1ac-9020-4b7f-86e0-400484281b90",
+		"tenantId": "4228b43c-d82c-4cea-8c1c-3b719b96855c"
+	}
+}
